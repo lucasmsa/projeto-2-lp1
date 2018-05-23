@@ -1,0 +1,401 @@
+# depslib dependency file v1.0
+1526926185 source:c:\users\luca_\desktop\sorvete\apartamento.cpp
+	"Apartamento.h"
+
+1526926122 c:\users\luca_\desktop\sorvete\apartamento.h
+	"Imovel.h"
+
+1526934074 c:\users\luca_\desktop\sorvete\imovel.h
+	"Endereco.h"
+	<iostream>
+
+1526916149 c:\users\luca_\desktop\sorvete\endereco.h
+	<string>
+
+1526926176 source:c:\users\luca_\desktop\sorvete\casa.cpp
+	"Casa.h"
+
+1526926115 c:\users\luca_\desktop\sorvete\casa.h
+	"Imovel.h"
+
+1526916147 source:c:\users\luca_\desktop\sorvete\endereco.cpp
+	"Endereco.h"
+
+1526931228 source:c:\users\luca_\desktop\sorvete\estudio.cpp
+	"Estudio.h"
+
+1526931197 c:\users\luca_\desktop\sorvete\estudio.h
+	"Imovel.h"
+
+1526933989 source:c:\users\luca_\desktop\sorvete\imovel.cpp
+	"Imovel.h"
+
+1526931072 source:c:\users\luca_\desktop\sorvete\main.cpp
+	<iostream>
+	"Casa.h"
+	"Terreno.h"
+	"Apartamento.h"
+	"Endereco.h"
+	"SistemaImobiliaria.h"
+
+1526932118 c:\users\luca_\desktop\sorvete\terreno.h
+	"Imovel.h"
+
+1526931773 c:\users\luca_\desktop\sorvete\sistemaimobiliaria.h
+	"Imovel.h"
+	"Casa.h"
+	"Apartamento.h"
+	"Terreno.h"
+
+1526931258 source:c:\users\luca_\desktop\sorvete\flat.cpp
+	"Flat.h"
+
+1526931563 c:\users\luca_\desktop\sorvete\flat.h
+	"Imovel.h"
+
+1526926221 source:c:\users\luca_\desktop\sorvete\terreno.cpp
+	"Terreno.h"
+
+1526931734 source:c:\users\luca_\desktop\sorvete\sistemaimobiliaria.cpp
+	"SistemaImobiliaria.h"
+	"Imovel.h"
+	<string.h>
+
+1526995239 source:c:\users\ewert\videos\sorvete\fusaor¡\apartamento.cpp
+	"Apartamento.h"
+
+1526926122 c:\users\ewert\videos\sorvete\fusaor¡\apartamento.h
+	"Imovel.h"
+
+1526996985 c:\users\ewert\videos\sorvete\fusaor¡\imovel.h
+	"Endereco.h"
+	<iostream>
+
+1526916149 c:\users\ewert\videos\sorvete\fusaor¡\endereco.h
+	<string>
+
+1526926176 source:c:\users\ewert\videos\sorvete\fusaor¡\casa.cpp
+	"Casa.h"
+
+1526926115 c:\users\ewert\videos\sorvete\fusaor¡\casa.h
+	"Imovel.h"
+
+1526916147 source:c:\users\ewert\videos\sorvete\fusaor¡\endereco.cpp
+	"Endereco.h"
+
+1526995239 source:c:\users\ewert\videos\sorvete\fusaor¡\estudio.cpp
+	"Estudio.h"
+	<iostream>
+
+1526995239 c:\users\ewert\videos\sorvete\fusaor¡\estudio.h
+	"Imovel.h"
+
+1526996250 source:c:\users\ewert\videos\sorvete\fusaor¡\flat.cpp
+	"Flat.h"
+	<string>
+
+1526996268 c:\users\ewert\videos\sorvete\fusaor¡\flat.h
+	"Imovel.h"
+
+1526996985 source:c:\users\ewert\videos\sorvete\fusaor¡\imovel.cpp
+	"Imovel.h"
+
+1526931072 source:c:\users\ewert\videos\sorvete\fusaor¡\main.cpp
+	<iostream>
+	"Casa.h"
+	"Terreno.h"
+	"Apartamento.h"
+	"Endereco.h"
+	"SistemaImobiliaria.h"
+
+1526932118 c:\users\ewert\videos\sorvete\fusaor¡\terreno.h
+	"Imovel.h"
+
+1526996487 c:\users\ewert\videos\sorvete\fusaor¡\sistemaimobiliaria.h
+	"Imovel.h"
+	"Casa.h"
+	"Apartamento.h"
+	"Terreno.h"
+	"Flat.h"
+	"Estudio.h"
+
+1527007163 source:c:\users\luca_\desktop\fusaor¡\apartamento.cpp
+	"Apartamento.h"
+
+1527007163 c:\users\luca_\desktop\fusaor¡\apartamento.h
+	"Imovel.h"
+
+1526999908 c:\users\luca_\desktop\fusaor¡\imovel.h
+	"Endereco.h"
+	<iostream>
+
+1526916149 c:\users\luca_\desktop\fusaor¡\endereco.h
+	<string>
+
+1527009919 source:c:\users\luca_\desktop\fusaor¡\casa.cpp
+	"Casa.h"
+
+1527007163 c:\users\luca_\desktop\fusaor¡\casa.h
+	"Imovel.h"
+
+1526916147 source:c:\users\luca_\desktop\fusaor¡\endereco.cpp
+	"Endereco.h"
+
+1527007163 source:c:\users\luca_\desktop\fusaor¡\estudio.cpp
+	"Estudio.h"
+	<iostream>
+
+1527007163 c:\users\luca_\desktop\fusaor¡\estudio.h
+	"Imovel.h"
+
+1527007163 source:c:\users\luca_\desktop\fusaor¡\flat.cpp
+	"Flat.h"
+	<string>
+
+1527007163 c:\users\luca_\desktop\fusaor¡\flat.h
+	"Imovel.h"
+
+1526999660 source:c:\users\luca_\desktop\fusaor¡\imovel.cpp
+	"Imovel.h"
+
+1527010601 source:c:\users\luca_\desktop\fusaor¡\terreno.cpp
+	"Terreno.h"
+
+1527006874 c:\users\luca_\desktop\fusaor¡\terreno.h
+	"Imovel.h"
+
+1527012912 source:c:\users\luca_\desktop\fusaor¡\main.cpp
+	<iostream>
+	"Casa.h"
+	"Terreno.h"
+	"Apartamento.h"
+	"Endereco.h"
+	"SistemaImobiliaria.h"
+
+1527001711 c:\users\luca_\desktop\fusaor¡\sistemaimobiliaria.h
+	"Imovel.h"
+	"Casa.h"
+	"Apartamento.h"
+	"Terreno.h"
+	"Flat.h"
+	"Estudio.h"
+
+1527011386 source:c:\users\luca_\desktop\fusaor¡\sistemaimobiliaria.cpp
+	"SistemaImobiliaria.h"
+	"Imovel.h"
+	<string.h>
+	<string>
+	<iostream>
+
+1527007163 source:c:\users\renan goes\documents\programaÁ„o\aincard\apartamento.cpp
+	"Apartamento.h"
+
+1527007163 c:\users\renan goes\documents\programaÁ„o\aincard\apartamento.h
+	"Imovel.h"
+
+1526999908 c:\users\renan goes\documents\programaÁ„o\aincard\imovel.h
+	"Endereco.h"
+	<iostream>
+
+1526916149 c:\users\renan goes\documents\programaÁ„o\aincard\endereco.h
+	<string>
+
+1527009919 source:c:\users\renan goes\documents\programaÁ„o\aincard\casa.cpp
+	"Casa.h"
+
+1527007163 c:\users\renan goes\documents\programaÁ„o\aincard\casa.h
+	"Imovel.h"
+
+1526916147 source:c:\users\renan goes\documents\programaÁ„o\aincard\endereco.cpp
+	"Endereco.h"
+
+1527007163 source:c:\users\renan goes\documents\programaÁ„o\aincard\estudio.cpp
+	"Estudio.h"
+	<iostream>
+
+1527007163 c:\users\renan goes\documents\programaÁ„o\aincard\estudio.h
+	"Imovel.h"
+
+1527007163 source:c:\users\renan goes\documents\programaÁ„o\aincard\flat.cpp
+	"Flat.h"
+	<string>
+
+1527007163 c:\users\renan goes\documents\programaÁ„o\aincard\flat.h
+	"Imovel.h"
+
+1526999660 source:c:\users\renan goes\documents\programaÁ„o\aincard\imovel.cpp
+	"Imovel.h"
+
+1527023429 source:c:\users\renan goes\documents\programaÁ„o\aincard\main.cpp
+	<iostream>
+	"Casa.h"
+	"Terreno.h"
+	"Apartamento.h"
+	"Endereco.h"
+	"SistemaImobiliaria.h"
+
+1527006874 c:\users\renan goes\documents\programaÁ„o\aincard\terreno.h
+	"Imovel.h"
+
+1527021977 c:\users\renan goes\documents\programaÁ„o\aincard\sistemaimobiliaria.h
+	"Imovel.h"
+	"Casa.h"
+	"Apartamento.h"
+	"Terreno.h"
+	"Flat.h"
+	"Estudio.h"
+
+1527022216 source:c:\users\renan goes\documents\programaÁ„o\aincard\sistemaimobiliaria.cpp
+	"SistemaImobiliaria.h"
+	"Imovel.h"
+	<string.h>
+	<string>
+	<iostream>
+
+1527010601 source:c:\users\renan goes\documents\programaÁ„o\aincard\terreno.cpp
+	"Terreno.h"
+
+1527090256 source:c:\users\ewert\music\aincard\apartamento.cpp
+	"Apartamento.h"
+	<string>
+
+1527081976 c:\users\ewert\music\aincard\apartamento.h
+	"Imovel.h"
+
+1527084992 c:\users\ewert\music\aincard\imovel.h
+	"Endereco.h"
+	<iostream>
+
+1526916149 c:\users\ewert\music\aincard\endereco.h
+	<string>
+
+1527084867 source:c:\users\ewert\music\aincard\casa.cpp
+	"Casa.h"
+
+1527081975 c:\users\ewert\music\aincard\casa.h
+	"Imovel.h"
+
+1527086817 source:c:\users\ewert\music\aincard\endereco.cpp
+	"Endereco.h"
+
+1527084867 source:c:\users\ewert\music\aincard\estudio.cpp
+	"Estudio.h"
+	<iostream>
+
+1527081975 c:\users\ewert\music\aincard\estudio.h
+	"Imovel.h"
+
+1527084867 source:c:\users\ewert\music\aincard\flat.cpp
+	"Flat.h"
+	<string>
+
+1527081975 c:\users\ewert\music\aincard\flat.h
+	"Imovel.h"
+
+1527090824 source:c:\users\ewert\music\aincard\imovel.cpp
+	"Imovel.h"
+
+1527090824 source:c:\users\ewert\music\aincard\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	"Casa.h"
+	"Terreno.h"
+	"Apartamento.h"
+	"Endereco.h"
+	"SistemaImobiliaria.h"
+
+1527083145 c:\users\ewert\music\aincard\terreno.h
+	"Imovel.h"
+
+1527083771 c:\users\ewert\music\aincard\sistemaimobiliaria.h
+	"Imovel.h"
+	"Casa.h"
+	"Apartamento.h"
+	"Terreno.h"
+	"Flat.h"
+	"Estudio.h"
+
+1527090545 source:c:\users\ewert\music\aincard\sistemaimobiliaria.cpp
+	"SistemaImobiliaria.h"
+	"Imovel.h"
+	<string.h>
+	<string>
+	<iostream>
+	<stdio.h>
+
+1527084867 source:c:\users\ewert\music\aincard\terreno.cpp
+	"Terreno.h"
+
+1527090256 source:c:\users\ewert\onedrive\documentos\aincard\aincard\apartamento.cpp
+	"Apartamento.h"
+	<string>
+
+1527081976 c:\users\ewert\onedrive\documentos\aincard\aincard\apartamento.h
+	"Imovel.h"
+
+1527084992 c:\users\ewert\onedrive\documentos\aincard\aincard\imovel.h
+	"Endereco.h"
+	<iostream>
+
+1526916149 c:\users\ewert\onedrive\documentos\aincard\aincard\endereco.h
+	<string>
+
+1527099897 source:c:\users\ewert\onedrive\documentos\aincard\aincard\casa.cpp
+	"Casa.h"
+
+1527081975 c:\users\ewert\onedrive\documentos\aincard\aincard\casa.h
+	"Imovel.h"
+
+1527099897 source:c:\users\ewert\onedrive\documentos\aincard\aincard\endereco.cpp
+	"Endereco.h"
+
+1527099897 source:c:\users\ewert\onedrive\documentos\aincard\aincard\estudio.cpp
+	"Estudio.h"
+	<iostream>
+
+1527081975 c:\users\ewert\onedrive\documentos\aincard\aincard\estudio.h
+	"Imovel.h"
+
+1527099897 source:c:\users\ewert\onedrive\documentos\aincard\aincard\flat.cpp
+	"Flat.h"
+	<string>
+
+1527099897 c:\users\ewert\onedrive\documentos\aincard\aincard\flat.h
+	"Imovel.h"
+
+1527099897 source:c:\users\ewert\onedrive\documentos\aincard\aincard\imovel.cpp
+	"Imovel.h"
+
+1527099897 source:c:\users\ewert\onedrive\documentos\aincard\aincard\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	"Casa.h"
+	"Terreno.h"
+	"Apartamento.h"
+	"Endereco.h"
+	"SistemaImobiliaria.h"
+
+1527083145 c:\users\ewert\onedrive\documentos\aincard\aincard\terreno.h
+	"Imovel.h"
+
+1527099897 c:\users\ewert\onedrive\documentos\aincard\aincard\sistemaimobiliaria.h
+	"Imovel.h"
+	"Casa.h"
+	"Apartamento.h"
+	"Terreno.h"
+	"Flat.h"
+	"Estudio.h"
+
+1527099897 source:c:\users\ewert\onedrive\documentos\aincard\aincard\sistemaimobiliaria.cpp
+	"SistemaImobiliaria.h"
+	"Imovel.h"
+	<string.h>
+	<string>
+	<iostream>
+	<stdio.h>
+
+1527099897 source:c:\users\ewert\onedrive\documentos\aincard\aincard\terreno.cpp
+	"Terreno.h"
+

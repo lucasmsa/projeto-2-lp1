@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Casa" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Casa" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Casa" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Apartamento.cpp" />
+		<Unit filename="Apartamento.h" />
+		<Unit filename="Casa.cpp" />
+		<Unit filename="Casa.h" />
+		<Unit filename="Endereco.cpp" />
+		<Unit filename="Endereco.h" />
+		<Unit filename="Estudio.cpp" />
+		<Unit filename="Estudio.h" />
+		<Unit filename="Flat.cpp" />
+		<Unit filename="Flat.h" />
+		<Unit filename="Imovel.cpp" />
+		<Unit filename="Imovel.h" />
+		<Unit filename="SistemaImobiliaria.cpp" />
+		<Unit filename="SistemaImobiliaria.h" />
+		<Unit filename="Terreno.cpp" />
+		<Unit filename="Terreno.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
